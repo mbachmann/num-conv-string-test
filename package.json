@@ -1,0 +1,23 @@
+{
+  "name": "num-conv-string-test",
+  "version": "1.0.0",
+  "description": "Test for num-conv-string and web-starter-lib",
+  "main": "src/commonjs-test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "umd",
+    "amd",
+    "commonjs"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "lodash-amd": "^4.17.15",
+    "num-conv-string": "^1.0.6",
+    "requirejs": "^2.3.6"
+  }
+}
