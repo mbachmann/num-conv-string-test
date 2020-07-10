@@ -17,7 +17,7 @@
   "dependencies": {
     "lodash": "^4.17.15",
     "lodash-amd": "^4.17.15",
-    "num-conv-string": "^1.0.6",
+    "num-conv-string": "^1.1.0",
     "requirejs": "^2.3.6"
   }
 }

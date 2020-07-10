@@ -5,7 +5,7 @@ require.config({
             location : '../node_modules/lodash-amd'
         },{
             name : 'numConvString',
-            location : '../node_modules/num-conv-string/dist',
+            location : '../node_modules/num-conv-string/lib',
             main: 'num-conv-string.umd.min'
         }
     ]
